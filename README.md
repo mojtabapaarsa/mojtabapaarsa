@@ -1,7 +1,7 @@
-### Hi there 👋, Mojtaba Paarsa
-#### Junior Front-End Developer
-![Junior Front-End Developer](https://github.com/mojtabapaarsa/mojtabapaarsa/blob/main/banner.jpg)
 
+![Junior Front-End Developer](https://github.com/mojtabapaarsa/mojtabapaarsa/blob/main/banner.jpg)
+### Hi there 👋, Mojtaba Paarsa
+ 
 I'm Mojtaba from Iran, and I'm a junior front-end developer. I really enjoy learning languages and frameworks and libraries like react js. I'm currently learning React JS.
 
 Skills: HTML / CSS / JS / SASS / BOOTSTRAP / REACT JS
