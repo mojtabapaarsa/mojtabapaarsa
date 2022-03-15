@@ -15,4 +15,4 @@ REACT JS ( Learning ... )
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mojtabapaarsa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mojtabaparsa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mojtabadeveloper/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://mojtabaparsa.ir)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mojtabapaarsa&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mojtabapaarsa)](https://github.com/anuraghazra/github-readme-stats)
