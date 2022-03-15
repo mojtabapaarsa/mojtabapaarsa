@@ -1,6 +1,6 @@
 ### Hi there 👋, Mojtaba Paarsa
 #### Junior Front-End Developer
-![Junior Front-End Developer](https://media-exp1.licdn.com/dms/image/C4D16AQH4y4x4lphuqQ/profile-displaybackgroundimage-shrink_350_1400/0/1647341727341?e=1652918400&v=beta&t=BCK8YLQa2lYQMsM9fC1zKKnGFTWW6RgiiXmU7NT-JEw)
+![Junior Front-End Developer](https://github.com/mojtabapaarsa/mojtabapaarsa/blob/main/banner.jpg)
 
 I'm Mojtaba from Iran, and I'm a junior front-end developer. I really enjoy learning languages and frameworks and libraries like react js. I'm currently learning React JS.
 
